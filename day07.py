@@ -1,0 +1,1 @@
+# Calculate field then count number of splitters with a beam in front
